@@ -1,0 +1,35 @@
+[
+  {
+    "color": "black",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "id": "0",
+    "manufacturer": "Apple",
+    "name": "iPhone 7",
+    "price": "769",
+    "processor": "A10 Fusion",
+    "ram": "2",
+    "screen": "4,7 inch IPS"
+  },
+  {
+    "color": "space-gray",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "id": "1",
+    "manufacturer": "Apple",
+    "name": "iPhone 8",
+    "price": "869",
+    "processor": "A10 Fusion",
+    "ram": "2",
+    "screen": "4,7 inch IPS"
+  },
+  {
+    "color": "pink",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "id": "2",
+    "manufacturer": "Apple",
+    "name": "iPhone 11",
+    "price": "969",
+    "processor": "A10 Fusion",
+    "ram": "2",
+    "screen": "4,7 inch IPS"
+  }
+]
