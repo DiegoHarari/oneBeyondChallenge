@@ -1,8 +1,10 @@
 import React, {useState, useEffect} from 'react';
-import {View, FlatList, StyleSheet} from 'react-native';
+import {View, FlatList} from 'react-native';
 import {ActivityIndicator} from 'react-native-paper';
 import {useAPI} from '../../context/apiContext';
 import {CardList} from '../../components/CardList/CardList';
+
+import {styles} from '../styles';
 
 interface Iprops {
   data?: string;
@@ -34,10 +36,3 @@ export const Home: React.FC<Iprops> = () => {
     </View>
   );
 };
-
-const styles = StyleSheet.create({
-  loadingIndicator: {
-    height: '100%',
-    justifyContent: 'center',
-  },
-});

@@ -1,7 +1,7 @@
 [
   {
-    "color": "black",
-    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "Black",
+    "description": "This phone is the last gen...",
     "id": "0",
     "manufacturer": "Apple",
     "name": "iPhone 7",
@@ -11,8 +11,8 @@
     "screen": "4,7 inch IPS"
   },
   {
-    "color": "space-gray",
-    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "Space-Gray",
+    "description": "This phone is the last gen...",
     "id": "1",
     "manufacturer": "Apple",
     "name": "iPhone 8",
@@ -22,8 +22,8 @@
     "screen": "4,7 inch IPS"
   },
   {
-    "color": "pink",
-    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "Pink",
+    "description": "This phone is the last gen...",
     "id": "2",
     "manufacturer": "Apple",
     "name": "iPhone 11",
