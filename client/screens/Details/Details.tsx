@@ -1,5 +1,5 @@
 import React from 'react';
-import {FlatList, View, Text} from 'react-native';
+import {View} from 'react-native';
 import {ActivityIndicator} from 'react-native-paper';
 import {DetailsList} from '../../components/DetailsList/DetailsList';
 
@@ -14,8 +14,6 @@ interface Iprops {
 
 export const Details: React.FC<Iprops> = ({route}) => {
   const {id, phone} = route.params;
-  // const {color, description, manufacturer, name, price, screen, size, weight} =
-  //   phone;
 
   if (!id) {
     return (
