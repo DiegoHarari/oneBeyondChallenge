@@ -14,7 +14,6 @@ export const DetailsList = ({phones}) => {
     processor,
     ram,
   } = phones;
-  console.log(color);
   return (
     <View style={{borderWidth: 0.5, borderColor: 'gray'}}>
       <DataTable>
